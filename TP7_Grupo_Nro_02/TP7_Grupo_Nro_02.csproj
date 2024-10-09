@@ -67,6 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Styles\main.css" />
+    <Content Include="Styles\normalize.css" />
+    <Content Include="Styles\colors.css" />
     <Content Include="Web.config" />
     <Content Include="ListadoSucursalesSeleccionados.aspx" />
     <Content Include="SeleccionarSucursales.aspx" />

@@ -1,0 +1,7 @@
+﻿@import 'colors.css';   
+
+body {
+    background-color: var(--clr-background);
+    color: var(--clr-text);
+    font-size: var(--fz-body);
+}
